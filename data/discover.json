@@ -1,0 +1,75 @@
+{
+  "content": [
+    {
+      "acttit":"超值热卖",
+      "actp":"1年前",
+      "titimg":"@/../static/images/t1.jpg",
+      "tally":"净颜卸妆爱用大推荐",
+      "prointro":"卸妆胜过保养，残留等于毁容！卸妆容易，卸净不易！卸妆产品五花八门，爆豆，敏感只因有卸妆残留。什么才是好卸妆？不油、不闷痘、无残留、不厚重、温和去除脸部彩妆及污垢的卸妆才是好卸妆！",
+      "proimg1":"@/../static/images/pic-1.jpg",
+      "proimg2":"@/../static/images/pic-2.jpg",
+      "proimg3":"@/../static/images/pic-3.jpg",
+      "sloginimg":"@/../static/images/s-1.jpg",
+      "slogimg":"不需洪荒之力，轻松卸妆 | 净颜卸妆专场",
+      "agreeimg":"@/../static/images/praise.png",
+      "agreespan":"706"
+    },
+    {
+      "acttit":"小董优选",
+      "actp":"1年前",
+      "titimg":"@/../static/images/t2.jpg",
+      "tally":"口碑隔离大集合",
+      "prointro":"一般的化妆品是无法阻止非常细小的微尘，雾霾等进入皮肤。虽然每天清洁皮肤，但是只是补妆。隔离可以温和隔绝外部环境对于皮肤的刺激，还能调节肤色、隐形毛孔，形成肌肤与外界的屏障，做你肌肤的“隐形保护衣”！脱妆从此“不约”。",
+      "proimg1":"@/../static/images/pic-4.jpg",
+      "proimg2":"@/../static/images/pic-5.jpg",
+      "proimg3":"@/../static/images/pic-6.jpg",
+      "sloginimg":"@/../static/images/s-2.jpg",
+      "sloginp":"做你肌肤的“隐形保护衣” | 口碑隔离大集合",
+      "agreeimg":"@/../static/images/praise.png",
+      "agreespan":"706"
+    },
+    {
+      "acttit":"热卖优选",
+      "actp":"1年前",
+      "titimg":"@/../static/images/t1.jpg",
+      "tally":"经典国货推荐",
+      "prointro":"非进口产品不用？国外大牌才是好？你正当吾大天朝内没有好货了？当你臣服于美妆舶来品,看着大妈们在国外买空专柜时，“歪果仁”们都在天朝内抢购这些化妆品。",
+      "proimg1":"@/../static/images/pic-7.jpg",
+      "proimg2":"@/../static/images/pic-8.jpg",
+      "proimg3":"@/../static/images/pic-9.jpg",
+      "sloginimg":"@/../static/images/s-3.jpg",
+      "sloginp":"被“歪果仁”疯抢的组祖母级国货 | 老牌国货TOP榜",
+      "agreeimg":"@/../static/images/praise.png",
+      "agreespan":"706"
+    },
+    {
+      "acttit":"新品速递",
+      "actp":"1年前",
+      "titimg":"@/../static/images/t1.jpg",
+      "tally":"你值得拥有的香氛洗护",
+      "prointro":"“香”遇幸福，我要你的眼里只有我，有一张香叫做阿道夫。采用先进德国洗护技术和理念，使用国际品质香氛。阿道夫拥有超过一百年的经验传承，，是专业美发产品领域中的领导者，已经发展遍布全球。",
+      "proimg1":"@/../static/images/pic-10.jpg",
+      "proimg2":"@/../static/images/pic-11.jpg",
+      "proimg3":"@/../static/images/pic-12.jpg",
+      "sloginimg":"@/../static/images/s-4.jpg",
+      "sloginp":"姑娘你缺套香氛洗护啊 | 阿道夫香氛洗护专场",
+      "agreeimg":"@/../static/images/praise.png",
+      "agreespan":"706"
+    },
+    {
+      "acttit":"热卖优选",
+      "actp":"1年前",
+      "titimg":"@/../static/images/t1.jpg",
+      "tally":"置顶",
+      "tolly2":"眼霜推荐",
+      "prointro":"拿什么拯救你?我的细纹，黑眼圈肿泡眼，由于眼周几乎没有皮脂腺，所以非常容易出现干燥缺水的问题，导致细纹，皱纹的产生。做好眼周保养，就像做好青春的打底工作，要一直做明眸闪亮的仙女。",
+      "proimg1":"@/../static/images/pic-13.jpg",
+      "proimg2":"@/../static/images/pic-14.jpg",
+      "proimg3":"@/../static/images/pic-15.jpg",
+      "sloginimg":"@/../static/images/s-5.jpg",
+      "sloginp":"爱笑的女生眼纹都不会太差 | 滋润眼霜专场",
+      "agreeimg":"@/../static/images/praise.png",
+      "agreespan":"706"
+    }
+  ]
+}

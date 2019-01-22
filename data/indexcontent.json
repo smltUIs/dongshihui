@@ -1,0 +1,131 @@
+{
+  "contentBanner": [
+          {
+            "banImg":"@/../static/images/banner1.jpg"
+          },
+          {
+            "banImg":"@/../static/images/banner2.jpg"
+          },
+          {
+            "banImg":"@/../static/images/banner3.jpg"
+          },
+          {
+            "banImg":"@/../static/images/banner4.jpg"
+          }
+        ],
+    "notice": "NOTICE",
+    "nocBanner":[
+      {
+        "nocTit": "董事惠--中国领创一站式品质生活服务平台"
+      },
+      {
+        "nocTit": "DSHUI水凝透润系列新品发布 七款新品还你青春"
+      },
+      {
+        "nocTit": "双十二免单名单公布"
+      }
+    ],
+  "contentList": [
+    {
+      "jumpTo":"/newpro",
+      "jumpImg":"@/../static/images/ico-1.jpg",
+      "jumpSpan":"全部"
+    },
+    {
+      "jumpTo":"/newpro2",
+      "jumpImg":"@/../static/images/ico-2.jpg",
+      "jumpSpan":"新品"
+    },
+    {
+      "jumpTo":"/newpro",
+      "jumpImg":"@/../static/images/ico-1.jpg",
+      "jumpSpan":"包邮"
+    },
+    {
+      "jumpTo":"/newpro2",
+      "jumpImg":"@/../static/images/ico-3.jpg",
+      "jumpSpan":"礼包"
+    }
+  ],
+  "contentSpecial": [
+    {
+      "specImg":"@/../static/images/h1.jpg",
+      "specP":"喜获真谷粒阳光玉米脆玉米酥玉米脆片休闲",
+      "specSpan":"￥ 13.6 "
+    },
+    {
+      "specImg":"@/../static/images/h2.jpg",
+      "specP":"尚佰益燕窝胶原蛋白肽饮品两盒+董事惠面膜",
+      "specSpan":"￥ 299"
+    },
+    {
+      "specImg":"@/../static/images/h3.jpg",
+      "specP":"麦吉丽贵妇美颜膏神仙膏贵妇膏小样嫩肤提亮",
+      "specSpan":"￥ 158"
+    },
+    {
+      "specImg":"@/../static/images/h4.jpg",
+      "specP":"颜膜采立奇 婴儿环保洗衣片 去污快 温和不伤手",
+      "specSpan":"￥ 49 "
+    },
+    {
+      "specImg":"@/../static/images/h5.jpg",
+      "specP":"贝贝熊暖贴宝宝贴暖身贴自发热贴保暖贴宫暖贴",
+      "specSpan":"￥ 9.9 "
+    }
+  ],
+  "contentDshui":
+[
+  {
+    "dshuiImg":"@/../static/images/d1.jpg"
+  },
+  {
+    "dshuiImg":"@/../static/images/d2.jpg"
+  },
+  {
+    "dshuiImg":"@/../static/images/d3.jpg"
+  }
+
+],
+  "contentBigimg":[
+    {
+      "bigImgTit":"我爱大牌",
+      "bigImgP":"殿堂级品牌推荐，您的私人品牌管家",
+      "bigImgs":"@/../static/images/b1.jpg"
+    },
+    {
+      "bigImgTit":"本周新品",
+      "bigImgP":"最新最热超值产品速递",
+      "bigImgs":"@/../static/images/b2.jpg"
+    }
+  ],
+
+    "bigTit":"超值热卖",
+    "itemMsg":[
+      {
+        "itemImg":"@/../static/images/b3.jpg",
+        "itemTit":"懒人专属 自煮火锅",
+        "itemP":"海底捞火锅专场"
+      },
+      {
+        "itemImg":"@/../static/images/b4.jpg",
+        "itemTit":"随时随地 乐享美味",
+        "itemP":"休闲零食专场"
+      },
+      {
+        "itemImg":"@/../static/images/b5.jpg",
+        "itemTit":"创意小家电 爱上萌生活",
+        "itemP":"小熊品牌专场"
+      },
+      {
+        "itemImg":"@/../static/images/b6.jpg",
+        "itemTit":"今年流行这样穿 好看到爆",
+        "itemP":"秋冬棉衣推荐"
+      },
+      {
+        "itemImg":"@/../static/images/b7.jpg",
+        "itemTit":"你需要一双好袜子",
+        "itemP":"热卖袜子合集"
+      }
+    ]
+  }

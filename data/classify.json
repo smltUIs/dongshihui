@@ -1,0 +1,508 @@
+{
+  "num": "0",
+  "aside": [
+    {"liTit":"董事惠精选"},
+    {"liTit":"面部分类"},
+    {"liTit":"身体护理"},
+    {"liTit":"微商爆款"},
+    {"liTit":"香水彩妆"},
+    {"liTit":"女性护理"},
+    {"liTit":"居家用品"},
+    {"liTit":"内衣配饰"},
+    {"liTit":"清货专区"},
+    {"liTit":"母婴玩具"},
+    {"liTit":"养生保健"},
+    {"liTit":"洗衣护法"},
+    {"liTit":"家用电器"}
+  ],
+  "content": [
+    {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/l-1.jpg",
+                   "listSpan": "全部"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-2.jpg",
+                   "listSpan": "LATOJA涵曦"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-3.jpg",
+                   "listSpan": "汉草古坊"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-4.jpg",
+                   "listSpan": "澜庭集"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-5.jpg",
+                   "listSpan": "马油"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-6.jpg",
+                   "listSpan": "金稻"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-7.jpg",
+                   "listSpan": "绿索LS"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-8.jpg",
+                   "listSpan": "百雀羚"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-9.jpg",
+                   "listSpan": "卡卡寿"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-10.jpg",
+                   "listSpan": "coco"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-11.jpg",
+                   "listSpan": "歌琳"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-12.jpg",
+                   "listSpan": "高姿"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-13.jpg",
+                   "listSpan": "九朵云"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-14.jpg",
+                   "listSpan": "爱格优品"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-15.jpg",
+                   "listSpan": "艾微格诗"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-16.jpg",
+                   "listSpan": "棒女郎"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-17.jpg",
+                   "listSpan": "寇辰"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-18.jpg",
+                   "listSpan": "朵色"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-19.jpg",
+                   "listSpan": "蔻赛"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-20.jpg",
+                   "listSpan": "全部"
+                 },
+                 {
+                   "listImg": "@/../static/images/l-21.jpg",
+                   "listSpan": "全部"
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-5.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-6.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-7.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-8.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-9.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-10.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-11.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-12.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l2-13.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-5.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-6.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l3-7.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l4-1.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-5.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-6.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-7.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-8.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-9.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-10.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-11.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-12.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l5-13.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l6-1.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l7-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l7-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l7-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l7-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l7-5.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-5.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-6.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-7.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-8.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-9.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-10.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-11.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l8-12.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l9-1.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-5.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-6.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-7.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l10-8.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-4.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-5.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-6.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-7.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-8.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-9.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-10.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-11.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-12.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l11-13.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             },
+             {
+               "contentList": [
+                 {
+                   "listImg": "@/../static/images/category_all.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l12-1.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l12-2.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l12-3.jpg",
+                   "listSpan": ""
+                 },
+                 {
+                   "listImg": "@/../static/images/l12-4.jpg",
+                   "listSpan": ""
+                 }
+               ]
+             }
+    ]
+}
